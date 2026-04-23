@@ -1,0 +1,6 @@
+.hf_cache/
+.notebook_pkgs/
+.project/
+data/
+outputs/
+__pycache__/
